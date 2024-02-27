@@ -1,0 +1,21 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "3",
+    "icon_name": "Alice through the Looking-Glass",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "Alice through the Looking-Glass",
+    "numeric_version": "100",
+    "orientation": "portrait",
+    "package": "kopa.alice.looking",
+    "permissions": [],
+    "source": false,
+    "store": "none",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "1.0"
+}
